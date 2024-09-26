@@ -14,5 +14,4 @@ fn main() {
     } else {
         println!("Short");
     }
-
 }
